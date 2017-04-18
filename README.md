@@ -1,7 +1,10 @@
-# test coverage for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-better-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-better-npm-run)
+# npmtest-better-npm-run
+
+#### test coverage for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-better-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-better-npm-run)
+
 #### Better NPM scripts runner
 
-[![NPM](https://nodei.co/npm/better-npm-run.png?downloads=true)](https://www.npmjs.com/package/better-npm-run)
+[![NPM](https://nodei.co/npm/better-npm-run.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/better-npm-run)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-better-npm-run/tree/alpha)|
 |--:|:--|
@@ -9,11 +12,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-better-npm-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-better-npm-run/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-better-npm-run/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-better-npm-run/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-better-npm-run%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-better-npm-run/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-better-npm-run%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-better-npm-run/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-better-npm-run/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-better-npm-run/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +36,7 @@
 
 {
     "author": {
-        "name": "Benjamin Orozco",
-        "email": "benoror@gmail.com"
+        "name": "Benjamin Orozco"
     },
     "betterScripts": {
         "test:command:string": "node ./test/command.js",
@@ -61,12 +69,10 @@
     },
     "contributors": [
         {
-            "name": "Benjamin Orozco",
-            "email": "benoror@gmail.com"
+            "name": "Benjamin Orozco"
         },
         {
-            "name": "Kent C. Dodds",
-            "email": "kent@doddsfamily.us"
+            "name": "Kent C. Dodds"
         }
     ],
     "dependencies": {
@@ -87,21 +93,17 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "benoror",
-            "email": "benoror@gmail.com"
+            "name": "benoror"
         },
         {
-            "name": "galenandrew",
-            "email": "galen.turner@me.com"
+            "name": "galenandrew"
         },
         {
-            "name": "gorangajic",
-            "email": "fero.null@gmail.com"
+            "name": "gorangajic"
         }
     ],
     "name": "better-npm-run",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/benoror/better-npm-run.git"
