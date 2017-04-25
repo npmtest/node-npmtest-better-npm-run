@@ -1,6 +1,6 @@
 # npmtest-better-npm-run
 
-#### test coverage for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-better-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-better-npm-run)
+#### basic test coverage for  [better-npm-run (v0.0.15)](https://github.com/benoror/better-npm-run#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-better-npm-run.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-better-npm-run) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-better-npm-run.svg)](https://travis-ci.org/npmtest/node-npmtest-better-npm-run)
 
 #### Better NPM scripts runner
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-better-npm-run/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-better-npm-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-better-npm-run/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-better-npm-run/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-better-npm-run/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-better-npm-run/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-better-npm-run/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-better-npm-run/build/coverage.html/index.html)
 
